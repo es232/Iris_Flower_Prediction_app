@@ -1,0 +1,24 @@
+
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.venv-1
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Node.js
+/iris-dashboard/node_modules/
+dist/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
